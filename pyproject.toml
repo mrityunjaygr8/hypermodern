@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "hypermodern"
+version = "0.1.0"
+description = "The Hypermodern pythonproject"
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/mrityunjaygr8/hypermodern"
+repository = "https://github.com/mrityunjaygr8/hypermodern"
+keywords = ["hypermodern"]
+authors = ["Mrityunjay Saxena <mrityunjaysaxena1996@gmail.com>"]
+
+[tool.poetry.scripts]
+hypermodern = "hypermodern.console:main"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+click = "^7.1.2"
+requests = "^2.23.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
