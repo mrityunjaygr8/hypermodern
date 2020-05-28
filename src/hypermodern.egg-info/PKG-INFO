@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: hypermodern
+Version: 0.1.0
+Summary: The Hypermodern pythonproject
+Home-page: https://github.com/mrityunjaygr8/hypermodern
+Author: Mrityunjay Saxena
+Author-email: mrityunjaysaxena1996@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8,<4.0
